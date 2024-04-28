@@ -8,7 +8,7 @@ import { genRandom } from '../utills';
 
 const Proposal = ({ className = '' }) => {
     const { id } = useParams();
-    const person = "Shraddha";
+    const person = "Diksha";
 
     const [texts, setTexts] = useState([]);
     const [currentText, setCurrentText] = useState({
