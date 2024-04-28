@@ -1,35 +1,35 @@
 {
-  "qoutes": [
+  "quotes": [
     {
       "id": "Q2",
-      "text": "You have been a source of strength and support for me. I'm glad that you're a part of my life",
+      "text": "Every conversation with you brightens my day. I'm grateful to have you in my life.",
       "image": "/images/image-03.webp"
     },
     {
       "id": "Q3",
-      "text": "You make me smile so easily. Can you be there, to do it forever?",
+      "text": "You have a way of making even the simplest moments special. I cherish our connection.",
       "image": "/images/image-02.webp"
     },
     {
       "id": "Q4",
-      "text": "I was alone in life, but when you came into my life, you brought colours with you and painted my life with beautiful colours",
+      "text": "Meeting you has added so much joy and excitement to my life. I look forward to getting to know you better.",
       "image": "/images/image-01.webp"
     },
     {
       "id": "Q5",
-      "text": "Your absence is stronger to me than the presence of thousands of other people",
+      "text": "Your absence is stronger to me than the presence of thousands of other people. I'm beginning to think you're just a mythical creature who doesn't actually make phone calls.",
       "image": "/images/image-07.webp"
     },
     {
       "id": "Q6",
-      "text": "I've always valued our friendship and the laughter and good times we've shared together.",
+      "text": "I'm grateful for the laughter and genuine connection we've shared so far. Looking forward to more good times ahead.",
       "image": "/images/image-06.webp"
     }
   ],
   "propose": {
     "id": "finished",
-    "text": "I'm not sure what life could bring you. I'm not sure if dreams do come true. I'm not sure what love can do. But I'm sure about one thing. * **** ***",
-    "subtext": "That's all",
+    "text": "While I may not know what the future holds, I do know that spending time with you brings me immense happiness. I'm excited to continue this journey together.",
+    "subtext": "Here's to new beginnings!",
     "image": "/images/image-04.webp"
   }
 }
